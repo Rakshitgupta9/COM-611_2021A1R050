@@ -31,3 +31,5 @@ Users can modify the script and CSV file to apply the algorithm to different dat
 **Note:**
 
 This implementation serves as a basic illustration of the Find-S algorithm for concept learning in machine learning. It can be a helpful starting point for understanding how to develop algorithms for hypothesis generation and refinement in the context of machine learning applications.
+
+## Rakshit Gupta - 2021a1r050
