@@ -37,3 +37,6 @@ python your_script_name.py
 
 ## Output
 The script prints the steps of the Candidate Elimination algorithm, displaying the evolving specific and general hypotheses at each iteration. Finally, it outputs the specific and general hypotheses after processing all training examples.
+
+
+`Rakshit Gupta - 2021a1r050`
