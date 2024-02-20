@@ -1,6 +1,8 @@
+## Ques: Implement and demonstrate the Data Processing for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file.
+
 **Description:**
 
-This Python script demonstrates the implementation of the Find-S algorithm for finding the most specific hypothesis based on a given set of training data samples. The training data is read from a CSV file named 'enjoysport.csv,' containing examples of whether a person enjoys a sport or not based on several attributes.
+This Python script demonstrates the implementation of the Find-S algorithm for finding the most specific hypothesis based on a given set of training data samples. The training data is read from a CSV file named 'trained_data.csv,' containing examples of whether a person enjoys a sport or not based on several attributes.
 
 **Implementation:**
 
@@ -8,7 +10,7 @@ This Python script demonstrates the implementation of the Find-S algorithm for f
    - The script initializes the number of attributes (`num_attributes`) and an empty list `a` to store the training data.
 
 2. **Reading Training Data:**
-   - The training data is read from the 'enjoysport.csv' file using the `csv` module, and the initial dataset is printed.
+   - The training data is read from the 'trained_data.csv' file using the `csv` module, and the initial dataset is printed.
 
 3. **Initial Hypothesis:**
    - The script initializes the hypothesis with '0' for each attribute and prints the initial hypothesis.
