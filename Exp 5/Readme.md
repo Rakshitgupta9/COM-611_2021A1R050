@@ -1,3 +1,5 @@
+## Implement the Linear regression on the salary Prediction based on a given set of training data samples. Read the training data from a .CSV file.
+
 **Linear Regression for Salary Prediction**
 
 This repository contains Python code for implementing linear regression to predict salaries based on years of experience. The dataset used for training is read from a .CSV file. The implementation utilizes various libraries including pandas, matplotlib, seaborn, statsmodels, and scikit-learn.
