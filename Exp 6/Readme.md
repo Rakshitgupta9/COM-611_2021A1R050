@@ -1,4 +1,4 @@
-**README**
+## Implement the KNN IRIS Image Classification based on a given set of training data samples. Read the training data from a .CSV file.
 
 ## KNN Prediction with Numpy
 
