@@ -1,4 +1,4 @@
-## Assuming a set of data that need to be specifically used in the dataset applies the Data Wrangling by reading the training data from a .csv file.
+## Ques: Assuming a set of data that need to be specifically used in the dataset applies the Data Wrangling by reading the training data from a .csv file.
 
 
 # Automobile Data Cleaning and Preprocessing
