@@ -1,4 +1,4 @@
-## Implement the Linear regression on the salary Prediction based on a given set of training data samples. Read the training data from a .CSV file.
+## Ques: Implement the Linear regression on the salary Prediction based on a given set of training data samples. Read the training data from a .CSV file.
 
 **Linear Regression for Salary Prediction**
 
