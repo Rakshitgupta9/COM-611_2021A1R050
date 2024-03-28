@@ -1,5 +1,5 @@
 
-## Ques:  For a given set of training data examples stored in a .CSV file, implement and demonstrate the Data Visualization to output a description of the set of all hypotheses consistent with the training examples.<hr>
+## Ques:  For a given set of training data examples stored in a .CSV file, implement and demonstrate the Data Visualization to output a description of the set of all hypotheses consistent with the training examples.
 
 # Candidate Elimination Algorithm for Hypothesis Learning
 
