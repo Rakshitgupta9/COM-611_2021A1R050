@@ -1,4 +1,4 @@
-## Implement the data Processing, Data visualization and Data wrangling on any real-world problem i.e., Covid _19 dataset to view the active cases on the world Map using Chloropleth and Also Plot the cases.
+## Ques: Implement the data Processing, Data visualization and Data wrangling on any real-world problem i.e., Covid _19 dataset to view the active cases on the world Map using Chloropleth and Also Plot the cases.
 
 
 ## Description: This project is an experiment in processing, visualizing, and wrangling COVID-19 data for Indian states. The primary goal is to create an interactive choropleth map displaying the total number of COVID-19 cases in each state. Additionally, a bar chart is plotted to provide a clearer visual representation of the data.
