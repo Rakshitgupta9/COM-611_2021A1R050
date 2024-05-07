@@ -1,7 +1,7 @@
-
+## Ques: Implement the Image Processing basics: Converting Image to RGB to BGR and to Grayscale, create a White / Black Color Image, how to draw shapes on image
 # Image Processing Basics with OpenCV
 
-This repository contains Python code snippets for performing basic image processing tasks using the OpenCV library. The provided functions demonstrate converting images to grayscale, BGR, and RGB color spaces, creating white and black color images, and drawing shapes on images.
+This directory contains Python code snippets for performing basic image processing tasks using the OpenCV library. The provided functions demonstrate converting images to grayscale, BGR, and RGB color spaces, creating white and black color images, and drawing shapes on images.
 
 ## Prerequisites
 
