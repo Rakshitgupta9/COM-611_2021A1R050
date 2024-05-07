@@ -1,3 +1,5 @@
+## Ques: Implement the web scrapping on Amazon website or any shopping site by importing the requests and the Beautiful Soup
+
 # Amazon Product Scraper
 
 This Python script allows you to scrape product information from Amazon product pages. You can extract details such as product title, price, rating, review count, and availability.
