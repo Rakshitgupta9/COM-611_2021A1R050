@@ -46,6 +46,3 @@ The script will display the original image along with the detected faces, eyes, 
 
 - This script is based on the OpenCV library and utilizes the pre-trained Haar cascades for face, eye, and smile detection.
 
-## License
-
-This script is licensed under the [MIT License](LICENSE).
